@@ -92,6 +92,3 @@ const Sidebar = () => {
 
 export default Sidebar;
 
-
-// mongodb+srv://adityachauhannitj:nfOxSlPHO2tJam70@cluster0.ty6aub9.mongodb.net/
-// cluster0.ty6aub9.mongodb.net
